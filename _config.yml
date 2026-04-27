@@ -1,6 +1,6 @@
 name:       'ALI'
 
-brandimage: 'images/nav_logo.png'
+#brandimage: 'images/nav_logo.png'
 brandtext:  'ALI'
 
 lessc: node_modules/.bin/lessc
